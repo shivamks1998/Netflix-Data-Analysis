@@ -1,5 +1,6 @@
 # Netflix-Data-Analysis
 The Netflix data analysis is a comprehensive investigation of the different attributes of the movies and TV shows that are available on the streaming platform. The dataset used in this analysis includes a variety of variables that describe each title's characteristics, such as the show ID, type (movie or TV show), title, director, country, date added, release year, rating, duration, and genre classification. These variables offer a wealth of information about the content on the platform and can be used to answer important questions about its offerings.
+![alt text](https://www.dreamstime.com/crown-netflix-television-screen-popular-series-choice-movies-image178976237)
 
 For example, by examining the release year of each title, we can determine whether there are any trends or patterns in the types of movies or TV shows that are added to the platform over time. Analyzing the genre classification can help us understand which genres are most popular among viewers, while the rating variable can provide insight into the audience's preferences.
 
