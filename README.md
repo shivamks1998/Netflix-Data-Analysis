@@ -12,10 +12,12 @@ In summary, the Netflix data analysis is a critical tool for understanding the p
 
 * Movies make up the largest portion of the data on Netflix, accounting for approximately 69.7% of the total content.
    ![composition](https://user-images.githubusercontent.com/120264399/233318179-f3c31a92-bfcd-4245-9462-6f5181b1f4a0.png)
-2. The United States has the highest number of shows and movies available on Netflix, with India following in second place. However, while India has the second-highest number of movies, it is still 56% lower than the number of movies from United States avilable on Netflix. 
-  
-3. Netflix started increasing its content offerings from 2014, which peaked in 2019. However, the number of content offerings began to decline after 2019, possibly due to the impact of the COVID-19 pandemic.
-4. Based on the data, it appears that the majority of movies and TV shows are added to Netflix during the month of July, and the day of the week when the most titles are added is Friday.
+* The United States has the highest number of shows and movies available on Netflix, with India following in second place. However, while India has the second-highest number of movies, it is still 56% lower than the number of movies from United States avilable on Netflix. 
+  ![country_wise_dist](https://user-images.githubusercontent.com/120264399/233320032-dbce1b54-1d3e-4ae1-8d19-2f47ce1bc469.png)
+* Netflix started increasing its content offerings from 2014, which peaked in 2019. However, the number of content offerings began to decline after 2019, possibly due to the impact of the COVID-19 pandemic.
+  ![content_Added_per_year](https://user-images.githubusercontent.com/120264399/233318933-5e37650a-81f9-4953-9e57-c371691e8221.png)
+* Based on the data, it appears that the majority of movies and TV shows are added to Netflix during the month of July, and the day of the week when the most titles are added is Friday.
+![content_added_per_month](https://user-images.githubusercontent.com/120264399/233320291-551b6a4d-080f-461e-91a6-652fe1e6cd88.png)
 ![content_added_in_days](https://user-images.githubusercontent.com/120264399/233318517-a1382ea5-f379-42f6-9e34-dbfac1d966be.png)
-6. The TV-MA rating makes up the largest portion of content on Netflix, accounting for approximately 33.7% of the total offerings. This suggests that the majority of content on Netflix is targeted towards adult audiences.
-7. The largest portion of content on Netflix belongs to the genres of Documentaries, Drama, and International Movies, which collectively make up approximately 33% of the total offerings.
+* The TV-MA rating makes up the largest portion of content on Netflix, accounting for approximately 33.7% of the total offerings. This suggests that the majority of content on Netflix is targeted towards adult audiences.
+* The largest portion of content on Netflix belongs to the genres of Documentaries, Drama, and International Movies, which collectively make up approximately 33% of the total offerings.
