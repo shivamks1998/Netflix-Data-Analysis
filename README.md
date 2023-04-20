@@ -20,4 +20,7 @@ In summary, the Netflix data analysis is a critical tool for understanding the p
 ![content_added_per_month](https://user-images.githubusercontent.com/120264399/233320291-551b6a4d-080f-461e-91a6-652fe1e6cd88.png)
 ![content_added_in_days](https://user-images.githubusercontent.com/120264399/233318517-a1382ea5-f379-42f6-9e34-dbfac1d966be.png)
 * The TV-MA rating makes up the largest portion of content on Netflix, accounting for approximately 33.7% of the total offerings. This suggests that the majority of content on Netflix is targeted towards adult audiences.
+![movie_rating_dist](https://user-images.githubusercontent.com/120264399/233320537-ae461b5d-c688-44d4-b859-687b868a0cd1.png)
+![tv_rating_dist](https://user-images.githubusercontent.com/120264399/233320883-09d7297b-b6d1-4909-aca7-d07101888c08.png)
 * The largest portion of content on Netflix belongs to the genres of Documentaries, Drama, and International Movies, which collectively make up approximately 33% of the total offerings.
+![genre_dist](https://user-images.githubusercontent.com/120264399/233321025-a023e817-7952-43db-adc0-e0b298e18710.png)
