@@ -10,7 +10,7 @@ In summary, the Netflix data analysis is a critical tool for understanding the p
 
 # Key Findings
 
-1. Movies make up the largest portion of the data on Netflix, accounting for approximately 69.7% of the total content.
+* Movies make up the largest portion of the data on Netflix, accounting for approximately 69.7% of the total content.
    ![composition](https://user-images.githubusercontent.com/120264399/233318179-f3c31a92-bfcd-4245-9462-6f5181b1f4a0.png)
 2. The United States has the highest number of shows and movies available on Netflix, with India following in second place. However, while India has the second-highest number of movies, it is still 56% lower than the number of movies from United States avilable on Netflix. 
   
